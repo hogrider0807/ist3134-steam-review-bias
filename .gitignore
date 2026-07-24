@@ -1,0 +1,20 @@
+# Data files - never commit, exceeds GitHub 100 MB limit
+*.csv
+!benchmark/benchmark.csv
+!results/*.csv
+*.zip
+*.gz
+
+# Credentials - never commit
+*.pem
+kaggle.json
+.aws/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db

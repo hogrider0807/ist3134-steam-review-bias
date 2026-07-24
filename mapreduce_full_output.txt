@@ -1,0 +1,10 @@
+# Hadoop MapReduce output, full corpus (21,721,666 records)
+# Columns: received_for_free, playtime_band, recommended, total, rate
+False   1_under1h       434827    658032    0.6608
+False   2_1to10h        4209670   4782407   0.8802
+False   3_10to100h      8912676   9827394   0.9069
+False   4_over100h      4834260   5767001   0.8383
+True    1_under1h       35297     49889     0.7075
+True    2_1to10h        187268    211014    0.8875
+True    3_10to100h      261111    280917    0.9295
+True    4_over100h      126332    145012    0.8712

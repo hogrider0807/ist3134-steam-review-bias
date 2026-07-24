@@ -1,0 +1,5 @@
+volume,size_mb,records,hadoop_mr_s,spark_multiline_s,spark_split_s,pandas_s,pandas_status
+s1m,167,460879,34.4,41.8,36.7,,ParserError
+s5m,805,2434968,37.0,71.2,40.0,22.2,OK
+s10m,1638,4717435,42.8,109.0,45.6,40.6,OK
+full,7885,21721666,161.3,514.2,89.9,,OOM_Killed
